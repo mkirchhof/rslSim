@@ -10,8 +10,12 @@ So, if you want to reproduce the experiments from scratch:
 
 # Further Resources:
 
-Main pRSL code repo (with up-to-date version of pRSL): https://github.com/mkirchhof/rsl
-Approximate inference experiments: https://github.com/mkirchhof/rslSim
-Benchmarks of pRSL on multi-label datasets: https://github.com/mkirchhof/rslBench
-Application of pRSL for transfer learning in human activity recognition: https://github.com/mkirchhof/rslAppl
-Paper: Kirchhof, M., Schmid, L., Reining, C., ten Hompel, M., Pauly, M.: pRSL: Interpretable Multi–label Stacking by Learning Probabilistic Rules. In: Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence, PMLR, in press (2021).
+- Main pRSL code repo (with up-to-date version of pRSL): https://github.com/mkirchhof/rsl
+
+- Approximate inference experiments: https://github.com/mkirchhof/rslSim
+
+- Benchmarks of pRSL on multi-label datasets: https://github.com/mkirchhof/rslBench
+
+- Application of pRSL for transfer learning in human activity recognition: https://github.com/mkirchhof/rslAppl
+
+- Paper: Kirchhof, M., Schmid, L., Reining, C., ten Hompel, M., Pauly, M.: pRSL: Interpretable Multi–label Stacking by Learning Probabilistic Rules. In: Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence, PMLR, in press (2021).
